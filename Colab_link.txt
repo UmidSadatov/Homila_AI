@@ -1,4 +1,4 @@
-Github
+Colab
 https://colab.research.google.com/drive/18D9aW-2HTso1pMbXQAXMu5DCidjuLDlT?usp=sharing
 
 Kaggle DB
